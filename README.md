@@ -1,6 +1,6 @@
 ## **⭐Unit-тесты⭐** 
 
-&emsp; [![Build status](https://ci.appveyor.com/api/projects/status/n0dbumm3te4gifih?svg=true)](https://ci.appveyor.com/project/SvetlanaGreenFox/ajs-homeworks-tests)
+&emsp; [![Build status](https://ci.appveyor.com/api/projects/status/f9t9m468i2830dfs?svg=true)](https://ci.appveyor.com/project/SvetlanaGreenFox/ajs-homeworks-testscontinue)
 
 &emsp;
 
