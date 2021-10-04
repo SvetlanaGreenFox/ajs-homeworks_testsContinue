@@ -1,7 +1,7 @@
 {
   "name": "ajs-homeworks_tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "&emsp; [![Build status](https://ci.appveyor.com/api/projects/status/n0dbumm3te4gifih?svg=true)](https://ci.appveyor.com/project/SvetlanaGreenFox/ajs-homeworks-tests)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",

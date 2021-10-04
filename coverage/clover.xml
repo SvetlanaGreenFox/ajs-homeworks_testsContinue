@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1633094968474" clover="3.2.0">
-  <project timestamp="1633094968475" name="All files">
-    <metrics statements="10" coveredstatements="10" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3" elements="25" coveredelements="25" complexity="0" loc="10" ncloc="10" packages="1" files="2" classes="2"/>
-    <file name="health.js" path="/mnt/c/Users/1/Desktop/Обучение/Frontend/Netology/ajs-homeworks_tests/src/js/health.js">
-      <metrics statements="8" coveredstatements="8" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
-      <line num="2" count="4" type="stmt"/>
-      <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="3" type="cond" truecount="4" falsecount="0"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="2" type="cond" truecount="4" falsecount="0"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-    </file>
-    <file name="rating.js" path="/mnt/c/Users/1/Desktop/Обучение/Frontend/Netology/ajs-homeworks_tests/src/js/rating.js">
+<coverage generated="1633374443257" clover="3.2.0">
+  <project timestamp="1633374443258" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="6" coveredelements="6" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="rating.js" path="C:\Users\1\Desktop\Обучение\Frontend\ajs-homeworks_tests\src\js\rating.js">
       <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
-      <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="3" count="1" type="stmt"/>
+      <line num="2" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>

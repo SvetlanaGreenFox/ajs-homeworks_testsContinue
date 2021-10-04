@@ -1,1 +1,1 @@
-!function(){"use strict";console.log("worked"),console.log(function(e){const{health:t}={name:"Маг",health:"90"};t>50?alert("Healthy"):t<=50&&t>15?alert("wounded"):t<15&&t>0?alert("critical"):alert("You died")}())}();
+!function(){"use strict";[{name:"мечник",health:10},{name:"маг",health:100},{name:"лучник",health:80}].sort(((h,e)=>h.health>e.health?-1:1))}();
